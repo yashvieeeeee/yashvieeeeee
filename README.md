@@ -6,8 +6,6 @@
 
 ## About Me
 
-I'm an upcoming Software Engineer with a strong passion for technology, based in Mumbai — passionate about Agentic AI and ML.
-
 - 📍 **Location:** Mumbai
 - 🎓 **Education:** BE in Information Technology · Current TE at St. Francis Institute of Technology
 
