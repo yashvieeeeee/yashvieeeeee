@@ -1,5 +1,3 @@
-<div align="center">
-
 # Yashvie Mahey
 
 **IT Undergrad · Cybersecurity · Full-Stack Dev · UI/UX**
