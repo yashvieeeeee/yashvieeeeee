@@ -1,13 +1,12 @@
 # Yashvie Mahey
 
-**IT Undergrad · Cybersecurity · Full-Stack Dev · UI/UX**
-
 ---
 
 ## About Me
 
+I’m an aspiring data analyst exploring machine learning and building practical web applications
 - 📍 **Location:** Mumbai
-- 🎓 **Education:** BE in Information Technology · Current TE at St. Francis Institute of Technology
+- 🎓 **Education:** BE in Information Technology at St. Francis Institute of Technology
 
 ---
 
