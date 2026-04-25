@@ -59,7 +59,8 @@ I'm an upcoming Software Engineer with a strong passion for technology, based in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvie-mahey-6750522b7)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashviemahey1@gmail.com)
 
-</div>
+<div align="center">
+
 ![Profile views](https://komarev.com/ghpvc/?username=yashviemahey&color=blueviolet&style=flat-square)
 
 </div>
