@@ -1,40 +1,21 @@
 <div align="center">
 
-```
-██╗   ██╗ █████╗ ███████╗██╗  ██╗██╗   ██╗██╗███████╗
-╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║██║   ██║██║██╔════╝
- ╚████╔╝ ███████║███████╗███████║██║   ██║██║█████╗  
-  ╚██╔╝  ██╔══██║╚════██║██╔══██║╚██╗ ██╔╝██║██╔══╝  
-   ██║   ██║  ██║███████║██║  ██║ ╚████╔╝ ██║███████╗
-   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝ ╚═╝╚══════╝
-```
+# Yashvie Mahey
 
-### `IT Undergrad` · `Cybersecurity` · `Full-Stack Dev` · `UI/UX`
-*Building at the intersection of security, data, and design — from Mumbai 🇮🇳*
+**IT Undergrad · Cybersecurity · Full-Stack Dev · UI/UX**
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvie-mahey-6750522b7)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashviemahey1@gmail.com)
+## About Me
 
-</div>
+I'm an upcoming Software Engineer with a strong passion for technology, based in Mumbai — passionate about Agentic AI and ML.
 
----
-
-## `> whoami`
-
-```python
-yashvie = {
-    "role"      : "BE in Information Technology @ SFIT, Mumbai",
-    "major"     : "Information Technology & honors in Cyber Security",
-    "interests" : ["Data Analytics", "Web Development", "UI/UX Design"],
-    "currently" : "Building cool things and breaking (ethically) cooler ones 🔐",
-}
-```
+- 📍 **Location:** Mumbai
+- 🎓 **Education:** BE in Information Technology · Current TE at St. Francis Institute of Technology
 
 ---
 
-## `> skills --list`
+## Skills
 
 ### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,14 +32,12 @@ yashvie = {
 
 ### 📊 Data & Analytics
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/Data%20Analysis-4479A1?style=flat-square&logo=databricks&logoColor=white)
-`Data Visualization` · `Statistical Modelling` · `Data Preprocessing`
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4479A1?style=flat-square&logo=databricks&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
- 
 
 ### 🎨 UI/UX & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -66,38 +45,21 @@ yashvie = {
 
 ---
 
-## `> status`
+## What I'm Up To
 
-```
-📍 Mumbai, India
-🌱 Currently levelling up: Advanced ML + UI/UX Design
-⚡ Fun fact:  My git commit messages tell a better story than my diary
-```
+- 🔨 I'm currently working on developing data-centric web applications
+- 🌱 Strengthening skills in machine learning & data analysis
+- 👥 Looking to collaborate on impactful tech projects
+- ⚡ Fun fact: My git commit messages tell a better story than my diary
 
 ---
 
-<div align="center">
+*Building at the intersection of security, data, and design — from Mumbai 🇮🇳*
 
-*"The best interface is one that disappears — and the best security is one that's invisible too."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvie-mahey-6750522b7)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashviemahey1@gmail.com)
 
+</div>
 ![Profile views](https://komarev.com/ghpvc/?username=yashviemahey&color=blueviolet&style=flat-square)
 
 </div>
-=======
-## Hi there 👋
-
-<!--
-**yashvieeeeee/yashvieeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 9d0843f20a566c5e413c93f30ad0e75d3d948959
